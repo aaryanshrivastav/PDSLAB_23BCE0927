@@ -19,6 +19,7 @@ view_list <- function() {
 # Example usage
 add_item("Milk")
 add_item("Bread")
+view_list()
 remove_item("Milk")
 view_list() 
 
